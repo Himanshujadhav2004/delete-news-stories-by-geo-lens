@@ -1,0 +1,14 @@
+{
+  "name": "content-management",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@geoprotocol/geo-sdk": "0.20.2",
+    "dotenv": "^17.2.4",
+    "viem": "^2.45.3"
+  },
+  "devDependencies": {
+    "@types/node": "^25.2.3",
+    "typescript": "^5.9.3"
+  }
+}
